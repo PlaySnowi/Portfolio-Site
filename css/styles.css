@@ -84,6 +84,7 @@ h3 {
 
 .work_thumbnail {
   max-height: 150px;
+  min-height: 150px;
   display: block;
   margin-left: auto;
   margin-right: auto;
